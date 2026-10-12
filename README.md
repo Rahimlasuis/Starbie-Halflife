@@ -22,6 +22,9 @@ it finally wokrked
 google was my friend all the way.
 and it also gave me lot of work.
 never let AI write codes for you.
+
+I also suffered a lot because of my system. It was so slow and at some point i lost unsaved changes. I cried lol
+
 here are some images too
 
 <img width="371" height="187" alt="rest" src="https://github.com/user-attachments/assets/776dd708-15b0-44aa-b97e-a1a4292c5c04" />

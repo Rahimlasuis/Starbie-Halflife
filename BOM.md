@@ -22,7 +22,7 @@
 | [photoresistor](https://adafruit.com) | sensor for sleep mode | 1 | $0.20 | $0.20 | [adafruit](https://adafruit.com) |
 | [resistor](https://hub360.com) | Pull down voltage | 1 | $0.10 | $0.10 | [Hub 360](https://hub360.com) |
 | **Parts subtotal** | — | — | — | **$16.50** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$16.50** | — |
+| **Tax & shipping** | — | — | — | **$15.00** | — |
+| **Total** | — | — | — | **$31.50** | — |
 
-$13.50 left of the tier's funding.
+**$1.50 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.

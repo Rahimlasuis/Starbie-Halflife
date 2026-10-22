@@ -1,4 +1,2 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-photoresistor,1,adafruit,$0.20,$0.20,https://adafruit.com
-resistor,1,Hub 360,$0.10,$0.10,https://hub360.com
 Estimated total shipping,1,,,$15.00,

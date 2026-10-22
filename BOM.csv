@@ -1,10 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-"0.96"" OLED Display (SSD1306) I2C",1,Adafruit,$5.00,$5.00,https://adafruit.com
-MPU6050 6-Axis Module,1,amazon,$3.00,$3.00,https://amazon.com
-DHT11(temperature sensor),1,Digikey,$2.00,$2.00,https://DigiKey.com
-6x6mm Tactile Push Buttons,2,DigiKey,$0.20,$0.40,https://DigiKey.com
-8-Pin Female Socket Headers,2,DigiKey,$0.25,$0.50,https://DigiKey.com
-Piezo Buzzer,1,DigiKey,$0.30,$0.30,https://Digikey.com
 photoresistor,1,adafruit,$0.20,$0.20,https://adafruit.com
 resistor,1,Hub 360,$0.10,$0.10,https://hub360.com
 Estimated total shipping,1,,,$15.00,

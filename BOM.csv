@@ -1,4 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 XIAO ESP32-C3,1,Aliexpress,$5.12,$5.12,https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.650c6278bKypLs
 0.96 inch OLED,1,Hub360,$3.32,$3.32,https://hub360.cc/shop?search=OLED&order=name+asc
+DHT11 Sensor,1,Hub360,$1.49,$1.49,https://hub360.cc/shop?search=DHT11&order=name+asc
 Estimated total shipping,1,,,$15.00,

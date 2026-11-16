@@ -1,13 +1,17 @@
+<h1>Starbie</h1>
+<h2>Description</h2>
 This is my very first hardware project.
 i followed the starbie guide on halflife.
-building some kind of desktop companion
+building some kind of desktop companion with some personal additional functions
+<h2>Some of the processes</h2>
 i started by bringing in components , symbols and power symbols in the schematic.
 then i wired them up according to the guide.
 i updated the pcb
 traced the edges
 routed the pcb
 run DHR
-ignored the errors lol
+ignored the errors,
+I already fixed all the errors after my first rejection on halflife lol.
 added some components of my own
 opened arduino ide
 installed all the things i was askd to install by the guide.
@@ -32,3 +36,8 @@ here are some images too
 <img width="1366" height="768" alt="error" src="https://github.com/user-attachments/assets/1646c821-6c5b-4479-8f60-c746a4e43bd8" />
 <img width="1366" height="768" alt="add" src="https://github.com/user-attachments/assets/2ffe46eb-866c-40fc-ab2e-4aff9146ca20" />
 <img width="723" height="600" alt="adding" src="https://github.com/user-attachments/assets/e718c17a-feb7-43c4-9d02-baa0a5b6a38c" />
+
+
+<h2>Final Image</h2>
+<img width="1366" height="768" alt="sharp" src="https://github.com/user-attachments/assets/41b3cde5-7a33-45d9-8ddb-8919f115ed41" />
+
